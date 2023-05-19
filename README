@@ -8,5 +8,9 @@ public class Main {
 	
 	//Cambios desde GITHUB
 	//otro cambio desdde GITHUB
+<<<<<<< HEAD
 	//comentario  desde git para generar conflicto
+=======
+	//otro cambio desde GITHUB para generar conflicto
+>>>>>>> 2e2c85744f0942403c0140fdf07353d13a4730a7
 }
